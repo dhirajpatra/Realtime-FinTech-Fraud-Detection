@@ -3,3 +3,4 @@ requests
 aerospike
 celery[redis]
 redis
+python-dotenv

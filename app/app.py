@@ -91,7 +91,7 @@ def update_user_history(user_id, new_transaction):
 # """
 
 #     payload = {
-#         "model": "qwen:0.5b",
+#         "model": MODEL_NAME,
 #         "prompt": prompt,
 #         "stream": False,
 #         "format": "json",  # force JSON output

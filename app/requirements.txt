@@ -1,0 +1,5 @@
+flask
+requests
+aerospike
+celery[redis]
+redis

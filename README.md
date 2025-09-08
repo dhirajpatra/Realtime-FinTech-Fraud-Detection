@@ -103,25 +103,7 @@ MIT — Use freely for learning, prototyping, or commercial use.
 ---
 
 > 💡 Tip: First inference is slow — Qwen loads into memory. Subsequent calls are faster!
-``` 
 
----
-
-✅ **To download this README.md**:
-
-1. Copy the entire content above.
-2. Paste into a new file named `README.md` in your project root.
-3. Save it.
-
-Or, if you’re in a terminal and want to generate it:
-
-```bash
-cat > README.md << 'EOF'
-# 🕵️ FinTech Fraud Detection with LLM (Qwen 0.5B) + Aerospike + Ollama
-
-> A lightweight, end-to-end fraud detection system using **Qwen 0.5B** via **Ollama**, storing user transaction history in **Aerospike**, served via **Flask**, orchestrated with **Docker Compose**, and optionally offloaded to **Celery workers** for async LLM inference.
-
----
 
 ## ✅ Features
 
